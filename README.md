@@ -11,28 +11,36 @@ This is a frontend clone of the Myntra website, designed to replicate the look a
 ## Project Structure
 The project is divided into multiple sections:
 
-1. Header
-   - Logo container
-   - Navigation bar
-     - Men
-     - Women
-     - Kids
-     - Home & Living
-     - Beauty
-     - Studio (New)
-   - Search bar
-   - Action bar (Profile, Wishlist, Bag)
-
-2. Main Content
-   - Banner section
-   - Category section (Medal Worthy Brands)
-   - Shop by Category section
-   - Products listing section (Dynamic content loading)
-
-3. Footer
-   - Footer image
-   - Footer columns with navigation links
-   - Copyright section
+Myntra Clone
+│
+├── Header
+│   ├── Logo Container
+│   ├── Navigation Bar
+│   │   ├── Men
+│   │   ├── Women
+│   │   ├── Kids
+│   │   ├── Home & Living
+│   │   ├── Beauty
+│   │   ├── Studio (New)
+│   ├── Search Bar
+│   ├── Action Bar
+│       ├── Profile
+│       ├── Wishlist
+│       ├── Bag
+│
+├── Main Content
+│   ├── Banner Section
+│   ├── Category Section
+│   │   ├── Medal Worthy Brands
+│   │   ├── Shop by Category
+│   ├── Product Listing Section (Dynamic Content)
+│
+├── Footer
+│   ├── Footer Image
+│   ├── Footer Columns
+│   │   ├── Online Shopping Links
+│   ├── Copyright Section
+│
 
 ## Technologies Used
 - HTML5 for structuring the webpage
