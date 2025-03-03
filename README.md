@@ -12,35 +12,36 @@ This is a frontend clone of the Myntra website, designed to replicate the look a
 The project is divided into multiple sections:
 
 Myntra Clone
-│
-├── Header
-│   ├── Logo Container
-│   ├── Navigation Bar
-│   │   ├── Men
-│   │   ├── Women
-│   │   ├── Kids
-│   │   ├── Home & Living
-│   │   ├── Beauty
-│   │   ├── Studio (New)
-│   ├── Search Bar
-│   ├── Action Bar
-│       ├── Profile
-│       ├── Wishlist
-│       ├── Bag
-│
-├── Main Content
-│   ├── Banner Section
-│   ├── Category Section
-│   │   ├── Medal Worthy Brands
-│   │   ├── Shop by Category
-│   ├── Product Listing Section (Dynamic Content)
-│
-├── Footer
-│   ├── Footer Image
-│   ├── Footer Columns
-│   │   ├── Online Shopping Links
-│   ├── Copyright Section
-│
+│<br>
+├── Header<br>
+│   ├── Logo Container<br>
+│   ├── Navigation Bar<br>
+│   │   ├── Men<br>
+│   │   ├── Women<br>
+│   │   ├── Kids<br>
+│   │   ├── Home & Living<br>
+│   │   ├── Beauty<br>
+│   │   ├── Studio (New)<br>
+│   ├── Search Bar<br>
+│   ├── Action Bar<br>
+│       ├── Profile<br>
+│       ├── Wishlist<br>
+│       ├── Bag<br>
+│<br>
+├── Main Content<br>
+│   ├── Banner Section<br>
+│   ├── Category Section<br>
+│   │   ├── Medal Worthy Brands<br>
+│   │   ├── Shop by Category<br>
+│   ├── Product Listing Section (Dynamic Content)<br>
+│<br>
+├── Footer<br>
+│   ├── Footer Image<br>
+│   ├── Footer Columns<br>
+│   │   ├── Online Shopping Links<br>
+│   ├── Copyright Section<br>
+│<br>
+
 
 ## Technologies Used
 - HTML5 for structuring the webpage
